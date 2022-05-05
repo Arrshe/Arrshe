@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [![Arrshe's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrshe&theme=merko&show_icons=true)](https://github.com/arrshe/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrshe&layout=compact&theme=merko&show_icons=true)](https://github.com/arrshe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrshe&layout=compact&theme=merko)](https://github.com/arrshe/github-readme-stats)
